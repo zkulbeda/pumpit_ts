@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "pumpit": "^4.1.1"
+  }
+}
